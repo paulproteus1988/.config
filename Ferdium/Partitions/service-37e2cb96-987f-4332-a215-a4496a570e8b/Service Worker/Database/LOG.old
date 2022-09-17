@@ -1,0 +1,2 @@
+2022/09/16-13:05:16.705 4958 Creating DB /home/kilgoretrout/.config/Ferdium/Partitions/service-37e2cb96-987f-4332-a215-a4496a570e8b/Service Worker/Database__tmp_for_rebuild since it was missing.
+2022/09/16-13:05:16.715 4958 Reusing MANIFEST /home/kilgoretrout/.config/Ferdium/Partitions/service-37e2cb96-987f-4332-a215-a4496a570e8b/Service Worker/Database__tmp_for_rebuild/MANIFEST-000001

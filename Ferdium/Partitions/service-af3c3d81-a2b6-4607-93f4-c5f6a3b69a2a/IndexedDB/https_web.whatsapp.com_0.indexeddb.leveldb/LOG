@@ -1,0 +1,18 @@
+2022/09/16-02:36:14.409 23fe Reusing MANIFEST /home/kilgoretrout/.config/Ferdium/Partitions/service-af3c3d81-a2b6-4607-93f4-c5f6a3b69a2a/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/16-02:36:14.409 23fe Recovering log #89
+2022/09/16-02:36:14.539 23fe Reusing old log /home/kilgoretrout/.config/Ferdium/Partitions/service-af3c3d81-a2b6-4607-93f4-c5f6a3b69a2a/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000089.log 
+2022/09/16-13:06:35.935 5848 Level-0 table #96: started
+2022/09/16-13:06:35.973 5848 Level-0 table #96: 841553 bytes OK
+2022/09/16-13:06:35.979 5848 Delete type=0 #89
+2022/09/16-13:06:35.979 5848 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/09/16-13:06:35.980 5848 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x06.\x02\x01\x0d\x00W\x00A\x00R\x00o\x00u\x00t\x00i\x00n\x00g\x00I\x00n\x00f\x00o' @ 784430 : 1
+2022/09/16-13:06:35.980 5848 Compacting 1@1 + 2@2 files
+2022/09/16-13:06:36.074 5848 Generated table #97@1: 35400 keys, 2225319 bytes
+2022/09/16-13:06:36.139 5848 Generated table #98@1: 22804 keys, 2182922 bytes
+2022/09/16-13:06:36.146 5848 Generated table #99@1: 3503 keys, 68340 bytes
+2022/09/16-13:06:36.146 5848 Compacted 1@1 + 2@2 files => 4476581 bytes
+2022/09/16-13:06:36.149 5848 compacted to: files[ 0 0 4 0 0 0 0 ]
+2022/09/16-13:06:36.150 5848 Delete type=2 #96
+2022/09/16-13:06:36.150 5848 Delete type=2 #91
+2022/09/16-13:06:36.150 5848 Delete type=2 #92
+2022/09/16-13:06:36.151 5848 Manual compaction at level-1 from '\x00\x06.\x02\x01\x0d\x00W\x00A\x00R\x00o\x00u\x00t\x00i\x00n\x00g\x00I\x00n\x00f\x00o' @ 784430 : 1 .. (end); will stop at (end)
